@@ -1,0 +1,11 @@
+*.swp
+*.pyc
+htmlcov/*
+.coverage
+.cache/*
+.eggs/*
+*egg-info/*
+**/__pycache__/*
+.pytest_cache/*
+build/*
+dist/*
